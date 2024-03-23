@@ -1,0 +1,881 @@
+,Country,Indicator,Missing Data Percentage
+0,Azerbaijan,Region,0.0
+1,China,Region,0.0
+2,"Hong Kong, China",Region,0.0
+3,India,Region,0.0
+4,Indonesia,Region,0.0
+5,Japan,Region,0.0
+6,Kazakhstan,Region,0.0
+7,Malaysia,Region,0.0
+8,Pakistan,Region,0.0
+9,Philippines,Region,0.0
+10,Singapore,Region,0.0
+11,South Korea,Region,0.0
+12,Taiwan,Region,0.0
+13,Thailand,Region,0.0
+14,Uzbekistan,Region,0.0
+15,Vietnam,Region,0.0
+16,Australia,Region,0.0
+17,New Zealand,Region,0.0
+18,Belarus,Region,0.0
+19,Bosnia-Herzegovina,Region,0.0
+20,Bulgaria,Region,0.0
+21,Croatia,Region,0.0
+22,Czech Republic,Region,0.0
+23,Estonia,Region,0.0
+24,Georgia,Region,0.0
+25,Hungary,Region,0.0
+26,Latvia,Region,0.0
+27,Lithuania,Region,0.0
+28,Macedonia,Region,0.0
+29,Poland,Region,0.0
+30,Romania,Region,0.0
+31,Russia,Region,0.0
+32,Serbia,Region,0.0
+33,Slovakia,Region,0.0
+34,Slovenia,Region,0.0
+35,Ukraine,Region,0.0
+36,Argentina,Region,0.0
+37,Bolivia,Region,0.0
+38,Brazil,Region,0.0
+39,Chile,Region,0.0
+40,Colombia,Region,0.0
+41,Costa Rica,Region,0.0
+42,Dominican Republic,Region,0.0
+43,Ecuador,Region,0.0
+44,Guatemala,Region,0.0
+45,Mexico,Region,0.0
+46,Peru,Region,0.0
+47,Uruguay,Region,0.0
+48,Venezuela,Region,0.0
+49,Algeria,Region,0.0
+50,Cameroon,Region,0.0
+51,Egypt,Region,0.0
+52,Iran,Region,0.0
+53,Israel,Region,0.0
+54,Kenya,Region,0.0
+55,Morocco,Region,0.0
+56,Nigeria,Region,0.0
+57,Saudi Arabia,Region,0.0
+58,South Africa,Region,0.0
+59,Tunisia,Region,0.0
+60,United Arab Emirates,Region,0.0
+61,Canada,Region,0.0
+62,USA,Region,0.0
+63,Austria,Region,0.0
+64,Belgium,Region,0.0
+65,Denmark,Region,0.0
+66,Finland,Region,0.0
+67,France,Region,0.0
+68,Germany,Region,0.0
+69,Greece,Region,0.0
+70,Ireland,Region,0.0
+71,Italy,Region,0.0
+72,Netherlands,Region,0.0
+73,Norway,Region,0.0
+74,Portugal,Region,0.0
+75,Spain,Region,0.0
+76,Sweden,Region,0.0
+77,Switzerland,Region,0.0
+78,Turkey,Region,0.0
+79,United Kingdom,Region,0.0
+80,Azerbaijan,Ice Cream Volume,0.0
+81,China,Ice Cream Volume,0.0
+82,"Hong Kong, China",Ice Cream Volume,0.0
+83,India,Ice Cream Volume,0.0
+84,Indonesia,Ice Cream Volume,0.0
+85,Japan,Ice Cream Volume,0.0
+86,Kazakhstan,Ice Cream Volume,0.0
+87,Malaysia,Ice Cream Volume,0.0
+88,Pakistan,Ice Cream Volume,0.0
+89,Philippines,Ice Cream Volume,0.0
+90,Singapore,Ice Cream Volume,0.0
+91,South Korea,Ice Cream Volume,0.0
+92,Taiwan,Ice Cream Volume,0.0
+93,Thailand,Ice Cream Volume,0.0
+94,Uzbekistan,Ice Cream Volume,0.0
+95,Vietnam,Ice Cream Volume,0.0
+96,Australia,Ice Cream Volume,0.0
+97,New Zealand,Ice Cream Volume,0.0
+98,Belarus,Ice Cream Volume,0.0
+99,Bosnia-Herzegovina,Ice Cream Volume,0.0
+100,Bulgaria,Ice Cream Volume,0.0
+101,Croatia,Ice Cream Volume,0.0
+102,Czech Republic,Ice Cream Volume,0.0
+103,Estonia,Ice Cream Volume,0.0
+104,Georgia,Ice Cream Volume,0.0
+105,Hungary,Ice Cream Volume,0.0
+106,Latvia,Ice Cream Volume,0.0
+107,Lithuania,Ice Cream Volume,0.0
+108,Macedonia,Ice Cream Volume,0.0
+109,Poland,Ice Cream Volume,0.0
+110,Romania,Ice Cream Volume,0.0
+111,Russia,Ice Cream Volume,0.0
+112,Serbia,Ice Cream Volume,0.0
+113,Slovakia,Ice Cream Volume,0.0
+114,Slovenia,Ice Cream Volume,0.0
+115,Ukraine,Ice Cream Volume,0.0
+116,Argentina,Ice Cream Volume,0.0
+117,Bolivia,Ice Cream Volume,0.0
+118,Brazil,Ice Cream Volume,0.0
+119,Chile,Ice Cream Volume,0.0
+120,Colombia,Ice Cream Volume,0.0
+121,Costa Rica,Ice Cream Volume,0.0
+122,Dominican Republic,Ice Cream Volume,0.0
+123,Ecuador,Ice Cream Volume,0.0
+124,Guatemala,Ice Cream Volume,0.0
+125,Mexico,Ice Cream Volume,0.0
+126,Peru,Ice Cream Volume,0.0
+127,Uruguay,Ice Cream Volume,0.0
+128,Venezuela,Ice Cream Volume,0.0
+129,Algeria,Ice Cream Volume,0.0
+130,Cameroon,Ice Cream Volume,0.0
+131,Egypt,Ice Cream Volume,0.0
+132,Iran,Ice Cream Volume,0.0
+133,Israel,Ice Cream Volume,0.0
+134,Kenya,Ice Cream Volume,0.0
+135,Morocco,Ice Cream Volume,0.0
+136,Nigeria,Ice Cream Volume,0.0
+137,Saudi Arabia,Ice Cream Volume,0.0
+138,South Africa,Ice Cream Volume,0.0
+139,Tunisia,Ice Cream Volume,0.0
+140,United Arab Emirates,Ice Cream Volume,0.0
+141,Canada,Ice Cream Volume,0.0
+142,USA,Ice Cream Volume,0.0
+143,Austria,Ice Cream Volume,0.0
+144,Belgium,Ice Cream Volume,0.0
+145,Denmark,Ice Cream Volume,0.0
+146,Finland,Ice Cream Volume,0.0
+147,France,Ice Cream Volume,0.0
+148,Germany,Ice Cream Volume,0.0
+149,Greece,Ice Cream Volume,0.0
+150,Ireland,Ice Cream Volume,0.0
+151,Italy,Ice Cream Volume,0.0
+152,Netherlands,Ice Cream Volume,0.0
+153,Norway,Ice Cream Volume,0.0
+154,Portugal,Ice Cream Volume,0.0
+155,Spain,Ice Cream Volume,0.0
+156,Sweden,Ice Cream Volume,0.0
+157,Switzerland,Ice Cream Volume,0.0
+158,Turkey,Ice Cream Volume,0.0
+159,United Kingdom,Ice Cream Volume,0.0
+160,Azerbaijan,Ice Cream Value,55.00000000000001
+161,China,Ice Cream Value,0.0
+162,"Hong Kong, China",Ice Cream Value,0.0
+163,India,Ice Cream Value,0.0
+164,Indonesia,Ice Cream Value,0.0
+165,Japan,Ice Cream Value,0.0
+166,Kazakhstan,Ice Cream Value,20.0
+167,Malaysia,Ice Cream Value,0.0
+168,Pakistan,Ice Cream Value,0.0
+169,Philippines,Ice Cream Value,0.0
+170,Singapore,Ice Cream Value,0.0
+171,South Korea,Ice Cream Value,0.0
+172,Taiwan,Ice Cream Value,0.0
+173,Thailand,Ice Cream Value,0.0
+174,Uzbekistan,Ice Cream Value,0.0
+175,Vietnam,Ice Cream Value,0.0
+176,Australia,Ice Cream Value,0.0
+177,New Zealand,Ice Cream Value,0.0
+178,Belarus,Ice Cream Value,0.0
+179,Bosnia-Herzegovina,Ice Cream Value,0.0
+180,Bulgaria,Ice Cream Value,0.0
+181,Croatia,Ice Cream Value,0.0
+182,Czech Republic,Ice Cream Value,0.0
+183,Estonia,Ice Cream Value,0.0
+184,Georgia,Ice Cream Value,0.0
+185,Hungary,Ice Cream Value,0.0
+186,Latvia,Ice Cream Value,0.0
+187,Lithuania,Ice Cream Value,0.0
+188,Macedonia,Ice Cream Value,0.0
+189,Poland,Ice Cream Value,0.0
+190,Romania,Ice Cream Value,0.0
+191,Russia,Ice Cream Value,0.0
+192,Serbia,Ice Cream Value,0.0
+193,Slovakia,Ice Cream Value,0.0
+194,Slovenia,Ice Cream Value,0.0
+195,Ukraine,Ice Cream Value,0.0
+196,Argentina,Ice Cream Value,0.0
+197,Bolivia,Ice Cream Value,0.0
+198,Brazil,Ice Cream Value,0.0
+199,Chile,Ice Cream Value,0.0
+200,Colombia,Ice Cream Value,0.0
+201,Costa Rica,Ice Cream Value,0.0
+202,Dominican Republic,Ice Cream Value,5.0
+203,Ecuador,Ice Cream Value,50.0
+204,Guatemala,Ice Cream Value,55.00000000000001
+205,Mexico,Ice Cream Value,0.0
+206,Peru,Ice Cream Value,0.0
+207,Uruguay,Ice Cream Value,0.0
+208,Venezuela,Ice Cream Value,0.0
+209,Algeria,Ice Cream Value,0.0
+210,Cameroon,Ice Cream Value,40.0
+211,Egypt,Ice Cream Value,0.0
+212,Iran,Ice Cream Value,0.0
+213,Israel,Ice Cream Value,0.0
+214,Kenya,Ice Cream Value,0.0
+215,Morocco,Ice Cream Value,0.0
+216,Nigeria,Ice Cream Value,70.0
+217,Saudi Arabia,Ice Cream Value,0.0
+218,South Africa,Ice Cream Value,0.0
+219,Tunisia,Ice Cream Value,0.0
+220,United Arab Emirates,Ice Cream Value,0.0
+221,Canada,Ice Cream Value,0.0
+222,USA,Ice Cream Value,0.0
+223,Austria,Ice Cream Value,0.0
+224,Belgium,Ice Cream Value,0.0
+225,Denmark,Ice Cream Value,0.0
+226,Finland,Ice Cream Value,0.0
+227,France,Ice Cream Value,0.0
+228,Germany,Ice Cream Value,0.0
+229,Greece,Ice Cream Value,0.0
+230,Ireland,Ice Cream Value,0.0
+231,Italy,Ice Cream Value,0.0
+232,Netherlands,Ice Cream Value,0.0
+233,Norway,Ice Cream Value,0.0
+234,Portugal,Ice Cream Value,0.0
+235,Spain,Ice Cream Value,0.0
+236,Sweden,Ice Cream Value,0.0
+237,Switzerland,Ice Cream Value,0.0
+238,Turkey,Ice Cream Value,0.0
+239,United Kingdom,Ice Cream Value,0.0
+240,Azerbaijan,Ice Cream Price,55.00000000000001
+241,China,Ice Cream Price,0.0
+242,"Hong Kong, China",Ice Cream Price,0.0
+243,India,Ice Cream Price,0.0
+244,Indonesia,Ice Cream Price,0.0
+245,Japan,Ice Cream Price,0.0
+246,Kazakhstan,Ice Cream Price,20.0
+247,Malaysia,Ice Cream Price,0.0
+248,Pakistan,Ice Cream Price,0.0
+249,Philippines,Ice Cream Price,0.0
+250,Singapore,Ice Cream Price,0.0
+251,South Korea,Ice Cream Price,0.0
+252,Taiwan,Ice Cream Price,0.0
+253,Thailand,Ice Cream Price,0.0
+254,Uzbekistan,Ice Cream Price,0.0
+255,Vietnam,Ice Cream Price,0.0
+256,Australia,Ice Cream Price,0.0
+257,New Zealand,Ice Cream Price,0.0
+258,Belarus,Ice Cream Price,0.0
+259,Bosnia-Herzegovina,Ice Cream Price,0.0
+260,Bulgaria,Ice Cream Price,0.0
+261,Croatia,Ice Cream Price,0.0
+262,Czech Republic,Ice Cream Price,0.0
+263,Estonia,Ice Cream Price,0.0
+264,Georgia,Ice Cream Price,0.0
+265,Hungary,Ice Cream Price,0.0
+266,Latvia,Ice Cream Price,0.0
+267,Lithuania,Ice Cream Price,0.0
+268,Macedonia,Ice Cream Price,0.0
+269,Poland,Ice Cream Price,0.0
+270,Romania,Ice Cream Price,0.0
+271,Russia,Ice Cream Price,0.0
+272,Serbia,Ice Cream Price,0.0
+273,Slovakia,Ice Cream Price,0.0
+274,Slovenia,Ice Cream Price,0.0
+275,Ukraine,Ice Cream Price,0.0
+276,Argentina,Ice Cream Price,0.0
+277,Bolivia,Ice Cream Price,0.0
+278,Brazil,Ice Cream Price,0.0
+279,Chile,Ice Cream Price,0.0
+280,Colombia,Ice Cream Price,0.0
+281,Costa Rica,Ice Cream Price,0.0
+282,Dominican Republic,Ice Cream Price,5.0
+283,Ecuador,Ice Cream Price,50.0
+284,Guatemala,Ice Cream Price,55.00000000000001
+285,Mexico,Ice Cream Price,0.0
+286,Peru,Ice Cream Price,0.0
+287,Uruguay,Ice Cream Price,0.0
+288,Venezuela,Ice Cream Price,0.0
+289,Algeria,Ice Cream Price,0.0
+290,Cameroon,Ice Cream Price,40.0
+291,Egypt,Ice Cream Price,0.0
+292,Iran,Ice Cream Price,0.0
+293,Israel,Ice Cream Price,0.0
+294,Kenya,Ice Cream Price,0.0
+295,Morocco,Ice Cream Price,0.0
+296,Nigeria,Ice Cream Price,70.0
+297,Saudi Arabia,Ice Cream Price,0.0
+298,South Africa,Ice Cream Price,0.0
+299,Tunisia,Ice Cream Price,0.0
+300,United Arab Emirates,Ice Cream Price,0.0
+301,Canada,Ice Cream Price,0.0
+302,USA,Ice Cream Price,0.0
+303,Austria,Ice Cream Price,0.0
+304,Belgium,Ice Cream Price,0.0
+305,Denmark,Ice Cream Price,0.0
+306,Finland,Ice Cream Price,0.0
+307,France,Ice Cream Price,0.0
+308,Germany,Ice Cream Price,0.0
+309,Greece,Ice Cream Price,0.0
+310,Ireland,Ice Cream Price,0.0
+311,Italy,Ice Cream Price,0.0
+312,Netherlands,Ice Cream Price,0.0
+313,Norway,Ice Cream Price,0.0
+314,Portugal,Ice Cream Price,0.0
+315,Spain,Ice Cream Price,0.0
+316,Sweden,Ice Cream Price,0.0
+317,Switzerland,Ice Cream Price,0.0
+318,Turkey,Ice Cream Price,0.0
+319,United Kingdom,Ice Cream Price,0.0
+320,Azerbaijan,GDP,0.0
+321,China,GDP,0.0
+322,"Hong Kong, China",GDP,0.0
+323,India,GDP,0.0
+324,Indonesia,GDP,0.0
+325,Japan,GDP,0.0
+326,Kazakhstan,GDP,0.0
+327,Malaysia,GDP,0.0
+328,Pakistan,GDP,0.0
+329,Philippines,GDP,0.0
+330,Singapore,GDP,0.0
+331,South Korea,GDP,0.0
+332,Taiwan,GDP,0.0
+333,Thailand,GDP,0.0
+334,Uzbekistan,GDP,0.0
+335,Vietnam,GDP,0.0
+336,Australia,GDP,0.0
+337,New Zealand,GDP,0.0
+338,Belarus,GDP,0.0
+339,Bosnia-Herzegovina,GDP,0.0
+340,Bulgaria,GDP,0.0
+341,Croatia,GDP,0.0
+342,Czech Republic,GDP,0.0
+343,Estonia,GDP,0.0
+344,Georgia,GDP,0.0
+345,Hungary,GDP,0.0
+346,Latvia,GDP,0.0
+347,Lithuania,GDP,0.0
+348,Macedonia,GDP,0.0
+349,Poland,GDP,0.0
+350,Romania,GDP,0.0
+351,Russia,GDP,0.0
+352,Serbia,GDP,0.0
+353,Slovakia,GDP,0.0
+354,Slovenia,GDP,0.0
+355,Ukraine,GDP,0.0
+356,Argentina,GDP,0.0
+357,Bolivia,GDP,0.0
+358,Brazil,GDP,0.0
+359,Chile,GDP,0.0
+360,Colombia,GDP,0.0
+361,Costa Rica,GDP,0.0
+362,Dominican Republic,GDP,0.0
+363,Ecuador,GDP,0.0
+364,Guatemala,GDP,0.0
+365,Mexico,GDP,0.0
+366,Peru,GDP,0.0
+367,Uruguay,GDP,0.0
+368,Venezuela,GDP,0.0
+369,Algeria,GDP,0.0
+370,Cameroon,GDP,0.0
+371,Egypt,GDP,0.0
+372,Iran,GDP,0.0
+373,Israel,GDP,0.0
+374,Kenya,GDP,0.0
+375,Morocco,GDP,0.0
+376,Nigeria,GDP,0.0
+377,Saudi Arabia,GDP,0.0
+378,South Africa,GDP,0.0
+379,Tunisia,GDP,0.0
+380,United Arab Emirates,GDP,0.0
+381,Canada,GDP,0.0
+382,USA,GDP,0.0
+383,Austria,GDP,0.0
+384,Belgium,GDP,0.0
+385,Denmark,GDP,0.0
+386,Finland,GDP,0.0
+387,France,GDP,0.0
+388,Germany,GDP,0.0
+389,Greece,GDP,0.0
+390,Ireland,GDP,0.0
+391,Italy,GDP,0.0
+392,Netherlands,GDP,0.0
+393,Norway,GDP,0.0
+394,Portugal,GDP,0.0
+395,Spain,GDP,0.0
+396,Sweden,GDP,0.0
+397,Switzerland,GDP,0.0
+398,Turkey,GDP,0.0
+399,United Kingdom,GDP,0.0
+400,Azerbaijan,Possession of Refrigerator,0.0
+401,China,Possession of Refrigerator,0.0
+402,"Hong Kong, China",Possession of Refrigerator,0.0
+403,India,Possession of Refrigerator,0.0
+404,Indonesia,Possession of Refrigerator,0.0
+405,Japan,Possession of Refrigerator,0.0
+406,Kazakhstan,Possession of Refrigerator,0.0
+407,Malaysia,Possession of Refrigerator,0.0
+408,Pakistan,Possession of Refrigerator,0.0
+409,Philippines,Possession of Refrigerator,0.0
+410,Singapore,Possession of Refrigerator,0.0
+411,South Korea,Possession of Refrigerator,0.0
+412,Taiwan,Possession of Refrigerator,0.0
+413,Thailand,Possession of Refrigerator,0.0
+414,Uzbekistan,Possession of Refrigerator,0.0
+415,Vietnam,Possession of Refrigerator,0.0
+416,Australia,Possession of Refrigerator,0.0
+417,New Zealand,Possession of Refrigerator,0.0
+418,Belarus,Possession of Refrigerator,0.0
+419,Bosnia-Herzegovina,Possession of Refrigerator,0.0
+420,Bulgaria,Possession of Refrigerator,0.0
+421,Croatia,Possession of Refrigerator,0.0
+422,Czech Republic,Possession of Refrigerator,0.0
+423,Estonia,Possession of Refrigerator,0.0
+424,Georgia,Possession of Refrigerator,0.0
+425,Hungary,Possession of Refrigerator,0.0
+426,Latvia,Possession of Refrigerator,0.0
+427,Lithuania,Possession of Refrigerator,0.0
+428,Macedonia,Possession of Refrigerator,0.0
+429,Poland,Possession of Refrigerator,0.0
+430,Romania,Possession of Refrigerator,0.0
+431,Russia,Possession of Refrigerator,0.0
+432,Serbia,Possession of Refrigerator,0.0
+433,Slovakia,Possession of Refrigerator,0.0
+434,Slovenia,Possession of Refrigerator,0.0
+435,Ukraine,Possession of Refrigerator,0.0
+436,Argentina,Possession of Refrigerator,0.0
+437,Bolivia,Possession of Refrigerator,0.0
+438,Brazil,Possession of Refrigerator,0.0
+439,Chile,Possession of Refrigerator,0.0
+440,Colombia,Possession of Refrigerator,0.0
+441,Costa Rica,Possession of Refrigerator,0.0
+442,Dominican Republic,Possession of Refrigerator,0.0
+443,Ecuador,Possession of Refrigerator,0.0
+444,Guatemala,Possession of Refrigerator,0.0
+445,Mexico,Possession of Refrigerator,0.0
+446,Peru,Possession of Refrigerator,0.0
+447,Uruguay,Possession of Refrigerator,0.0
+448,Venezuela,Possession of Refrigerator,0.0
+449,Algeria,Possession of Refrigerator,0.0
+450,Cameroon,Possession of Refrigerator,0.0
+451,Egypt,Possession of Refrigerator,0.0
+452,Iran,Possession of Refrigerator,0.0
+453,Israel,Possession of Refrigerator,0.0
+454,Kenya,Possession of Refrigerator,0.0
+455,Morocco,Possession of Refrigerator,0.0
+456,Nigeria,Possession of Refrigerator,0.0
+457,Saudi Arabia,Possession of Refrigerator,0.0
+458,South Africa,Possession of Refrigerator,0.0
+459,Tunisia,Possession of Refrigerator,0.0
+460,United Arab Emirates,Possession of Refrigerator,0.0
+461,Canada,Possession of Refrigerator,0.0
+462,USA,Possession of Refrigerator,0.0
+463,Austria,Possession of Refrigerator,0.0
+464,Belgium,Possession of Refrigerator,0.0
+465,Denmark,Possession of Refrigerator,0.0
+466,Finland,Possession of Refrigerator,0.0
+467,France,Possession of Refrigerator,0.0
+468,Germany,Possession of Refrigerator,0.0
+469,Greece,Possession of Refrigerator,0.0
+470,Ireland,Possession of Refrigerator,0.0
+471,Italy,Possession of Refrigerator,0.0
+472,Netherlands,Possession of Refrigerator,0.0
+473,Norway,Possession of Refrigerator,0.0
+474,Portugal,Possession of Refrigerator,0.0
+475,Spain,Possession of Refrigerator,0.0
+476,Sweden,Possession of Refrigerator,0.0
+477,Switzerland,Possession of Refrigerator,0.0
+478,Turkey,Possession of Refrigerator,0.0
+479,United Kingdom,Possession of Refrigerator,0.0
+480,Azerbaijan,Population,0.0
+481,China,Population,0.0
+482,"Hong Kong, China",Population,0.0
+483,India,Population,0.0
+484,Indonesia,Population,0.0
+485,Japan,Population,0.0
+486,Kazakhstan,Population,0.0
+487,Malaysia,Population,0.0
+488,Pakistan,Population,0.0
+489,Philippines,Population,0.0
+490,Singapore,Population,0.0
+491,South Korea,Population,0.0
+492,Taiwan,Population,0.0
+493,Thailand,Population,0.0
+494,Uzbekistan,Population,0.0
+495,Vietnam,Population,0.0
+496,Australia,Population,0.0
+497,New Zealand,Population,0.0
+498,Belarus,Population,0.0
+499,Bosnia-Herzegovina,Population,0.0
+500,Bulgaria,Population,0.0
+501,Croatia,Population,0.0
+502,Czech Republic,Population,0.0
+503,Estonia,Population,0.0
+504,Georgia,Population,0.0
+505,Hungary,Population,0.0
+506,Latvia,Population,0.0
+507,Lithuania,Population,0.0
+508,Macedonia,Population,0.0
+509,Poland,Population,0.0
+510,Romania,Population,0.0
+511,Russia,Population,0.0
+512,Serbia,Population,0.0
+513,Slovakia,Population,0.0
+514,Slovenia,Population,0.0
+515,Ukraine,Population,0.0
+516,Argentina,Population,0.0
+517,Bolivia,Population,0.0
+518,Brazil,Population,0.0
+519,Chile,Population,0.0
+520,Colombia,Population,0.0
+521,Costa Rica,Population,0.0
+522,Dominican Republic,Population,0.0
+523,Ecuador,Population,0.0
+524,Guatemala,Population,0.0
+525,Mexico,Population,0.0
+526,Peru,Population,0.0
+527,Uruguay,Population,0.0
+528,Venezuela,Population,0.0
+529,Algeria,Population,0.0
+530,Cameroon,Population,0.0
+531,Egypt,Population,0.0
+532,Iran,Population,0.0
+533,Israel,Population,0.0
+534,Kenya,Population,0.0
+535,Morocco,Population,0.0
+536,Nigeria,Population,0.0
+537,Saudi Arabia,Population,0.0
+538,South Africa,Population,0.0
+539,Tunisia,Population,0.0
+540,United Arab Emirates,Population,0.0
+541,Canada,Population,0.0
+542,USA,Population,0.0
+543,Austria,Population,0.0
+544,Belgium,Population,0.0
+545,Denmark,Population,0.0
+546,Finland,Population,0.0
+547,France,Population,0.0
+548,Germany,Population,0.0
+549,Greece,Population,0.0
+550,Ireland,Population,0.0
+551,Italy,Population,0.0
+552,Netherlands,Population,0.0
+553,Norway,Population,0.0
+554,Portugal,Population,0.0
+555,Spain,Population,0.0
+556,Sweden,Population,0.0
+557,Switzerland,Population,0.0
+558,Turkey,Population,0.0
+559,United Kingdom,Population,0.0
+560,Azerbaijan,GDP_per_capita,0.0
+561,China,GDP_per_capita,0.0
+562,"Hong Kong, China",GDP_per_capita,0.0
+563,India,GDP_per_capita,0.0
+564,Indonesia,GDP_per_capita,0.0
+565,Japan,GDP_per_capita,0.0
+566,Kazakhstan,GDP_per_capita,0.0
+567,Malaysia,GDP_per_capita,0.0
+568,Pakistan,GDP_per_capita,0.0
+569,Philippines,GDP_per_capita,0.0
+570,Singapore,GDP_per_capita,0.0
+571,South Korea,GDP_per_capita,0.0
+572,Taiwan,GDP_per_capita,0.0
+573,Thailand,GDP_per_capita,0.0
+574,Uzbekistan,GDP_per_capita,0.0
+575,Vietnam,GDP_per_capita,0.0
+576,Australia,GDP_per_capita,0.0
+577,New Zealand,GDP_per_capita,0.0
+578,Belarus,GDP_per_capita,0.0
+579,Bosnia-Herzegovina,GDP_per_capita,0.0
+580,Bulgaria,GDP_per_capita,0.0
+581,Croatia,GDP_per_capita,0.0
+582,Czech Republic,GDP_per_capita,0.0
+583,Estonia,GDP_per_capita,0.0
+584,Georgia,GDP_per_capita,0.0
+585,Hungary,GDP_per_capita,0.0
+586,Latvia,GDP_per_capita,0.0
+587,Lithuania,GDP_per_capita,0.0
+588,Macedonia,GDP_per_capita,0.0
+589,Poland,GDP_per_capita,0.0
+590,Romania,GDP_per_capita,0.0
+591,Russia,GDP_per_capita,0.0
+592,Serbia,GDP_per_capita,0.0
+593,Slovakia,GDP_per_capita,0.0
+594,Slovenia,GDP_per_capita,0.0
+595,Ukraine,GDP_per_capita,0.0
+596,Argentina,GDP_per_capita,0.0
+597,Bolivia,GDP_per_capita,0.0
+598,Brazil,GDP_per_capita,0.0
+599,Chile,GDP_per_capita,0.0
+600,Colombia,GDP_per_capita,0.0
+601,Costa Rica,GDP_per_capita,0.0
+602,Dominican Republic,GDP_per_capita,0.0
+603,Ecuador,GDP_per_capita,0.0
+604,Guatemala,GDP_per_capita,0.0
+605,Mexico,GDP_per_capita,0.0
+606,Peru,GDP_per_capita,0.0
+607,Uruguay,GDP_per_capita,0.0
+608,Venezuela,GDP_per_capita,0.0
+609,Algeria,GDP_per_capita,0.0
+610,Cameroon,GDP_per_capita,0.0
+611,Egypt,GDP_per_capita,0.0
+612,Iran,GDP_per_capita,0.0
+613,Israel,GDP_per_capita,0.0
+614,Kenya,GDP_per_capita,0.0
+615,Morocco,GDP_per_capita,0.0
+616,Nigeria,GDP_per_capita,0.0
+617,Saudi Arabia,GDP_per_capita,0.0
+618,South Africa,GDP_per_capita,0.0
+619,Tunisia,GDP_per_capita,0.0
+620,United Arab Emirates,GDP_per_capita,0.0
+621,Canada,GDP_per_capita,0.0
+622,USA,GDP_per_capita,0.0
+623,Austria,GDP_per_capita,0.0
+624,Belgium,GDP_per_capita,0.0
+625,Denmark,GDP_per_capita,0.0
+626,Finland,GDP_per_capita,0.0
+627,France,GDP_per_capita,0.0
+628,Germany,GDP_per_capita,0.0
+629,Greece,GDP_per_capita,0.0
+630,Ireland,GDP_per_capita,0.0
+631,Italy,GDP_per_capita,0.0
+632,Netherlands,GDP_per_capita,0.0
+633,Norway,GDP_per_capita,0.0
+634,Portugal,GDP_per_capita,0.0
+635,Spain,GDP_per_capita,0.0
+636,Sweden,GDP_per_capita,0.0
+637,Switzerland,GDP_per_capita,0.0
+638,Turkey,GDP_per_capita,0.0
+639,United Kingdom,GDP_per_capita,0.0
+640,Azerbaijan,Refrigerator_per_capita,0.0
+641,China,Refrigerator_per_capita,0.0
+642,"Hong Kong, China",Refrigerator_per_capita,0.0
+643,India,Refrigerator_per_capita,0.0
+644,Indonesia,Refrigerator_per_capita,0.0
+645,Japan,Refrigerator_per_capita,0.0
+646,Kazakhstan,Refrigerator_per_capita,0.0
+647,Malaysia,Refrigerator_per_capita,0.0
+648,Pakistan,Refrigerator_per_capita,0.0
+649,Philippines,Refrigerator_per_capita,0.0
+650,Singapore,Refrigerator_per_capita,0.0
+651,South Korea,Refrigerator_per_capita,0.0
+652,Taiwan,Refrigerator_per_capita,0.0
+653,Thailand,Refrigerator_per_capita,0.0
+654,Uzbekistan,Refrigerator_per_capita,0.0
+655,Vietnam,Refrigerator_per_capita,0.0
+656,Australia,Refrigerator_per_capita,0.0
+657,New Zealand,Refrigerator_per_capita,0.0
+658,Belarus,Refrigerator_per_capita,0.0
+659,Bosnia-Herzegovina,Refrigerator_per_capita,0.0
+660,Bulgaria,Refrigerator_per_capita,0.0
+661,Croatia,Refrigerator_per_capita,0.0
+662,Czech Republic,Refrigerator_per_capita,0.0
+663,Estonia,Refrigerator_per_capita,0.0
+664,Georgia,Refrigerator_per_capita,0.0
+665,Hungary,Refrigerator_per_capita,0.0
+666,Latvia,Refrigerator_per_capita,0.0
+667,Lithuania,Refrigerator_per_capita,0.0
+668,Macedonia,Refrigerator_per_capita,0.0
+669,Poland,Refrigerator_per_capita,0.0
+670,Romania,Refrigerator_per_capita,0.0
+671,Russia,Refrigerator_per_capita,0.0
+672,Serbia,Refrigerator_per_capita,0.0
+673,Slovakia,Refrigerator_per_capita,0.0
+674,Slovenia,Refrigerator_per_capita,0.0
+675,Ukraine,Refrigerator_per_capita,0.0
+676,Argentina,Refrigerator_per_capita,0.0
+677,Bolivia,Refrigerator_per_capita,0.0
+678,Brazil,Refrigerator_per_capita,0.0
+679,Chile,Refrigerator_per_capita,0.0
+680,Colombia,Refrigerator_per_capita,0.0
+681,Costa Rica,Refrigerator_per_capita,0.0
+682,Dominican Republic,Refrigerator_per_capita,0.0
+683,Ecuador,Refrigerator_per_capita,0.0
+684,Guatemala,Refrigerator_per_capita,0.0
+685,Mexico,Refrigerator_per_capita,0.0
+686,Peru,Refrigerator_per_capita,0.0
+687,Uruguay,Refrigerator_per_capita,0.0
+688,Venezuela,Refrigerator_per_capita,0.0
+689,Algeria,Refrigerator_per_capita,0.0
+690,Cameroon,Refrigerator_per_capita,0.0
+691,Egypt,Refrigerator_per_capita,0.0
+692,Iran,Refrigerator_per_capita,0.0
+693,Israel,Refrigerator_per_capita,0.0
+694,Kenya,Refrigerator_per_capita,0.0
+695,Morocco,Refrigerator_per_capita,0.0
+696,Nigeria,Refrigerator_per_capita,0.0
+697,Saudi Arabia,Refrigerator_per_capita,0.0
+698,South Africa,Refrigerator_per_capita,0.0
+699,Tunisia,Refrigerator_per_capita,0.0
+700,United Arab Emirates,Refrigerator_per_capita,0.0
+701,Canada,Refrigerator_per_capita,0.0
+702,USA,Refrigerator_per_capita,0.0
+703,Austria,Refrigerator_per_capita,0.0
+704,Belgium,Refrigerator_per_capita,0.0
+705,Denmark,Refrigerator_per_capita,0.0
+706,Finland,Refrigerator_per_capita,0.0
+707,France,Refrigerator_per_capita,0.0
+708,Germany,Refrigerator_per_capita,0.0
+709,Greece,Refrigerator_per_capita,0.0
+710,Ireland,Refrigerator_per_capita,0.0
+711,Italy,Refrigerator_per_capita,0.0
+712,Netherlands,Refrigerator_per_capita,0.0
+713,Norway,Refrigerator_per_capita,0.0
+714,Portugal,Refrigerator_per_capita,0.0
+715,Spain,Refrigerator_per_capita,0.0
+716,Sweden,Refrigerator_per_capita,0.0
+717,Switzerland,Refrigerator_per_capita,0.0
+718,Turkey,Refrigerator_per_capita,0.0
+719,United Kingdom,Refrigerator_per_capita,0.0
+720,Azerbaijan,Ice_Cream_Volume_per_capita,0.0
+721,China,Ice_Cream_Volume_per_capita,0.0
+722,"Hong Kong, China",Ice_Cream_Volume_per_capita,0.0
+723,India,Ice_Cream_Volume_per_capita,0.0
+724,Indonesia,Ice_Cream_Volume_per_capita,0.0
+725,Japan,Ice_Cream_Volume_per_capita,0.0
+726,Kazakhstan,Ice_Cream_Volume_per_capita,0.0
+727,Malaysia,Ice_Cream_Volume_per_capita,0.0
+728,Pakistan,Ice_Cream_Volume_per_capita,0.0
+729,Philippines,Ice_Cream_Volume_per_capita,0.0
+730,Singapore,Ice_Cream_Volume_per_capita,0.0
+731,South Korea,Ice_Cream_Volume_per_capita,0.0
+732,Taiwan,Ice_Cream_Volume_per_capita,0.0
+733,Thailand,Ice_Cream_Volume_per_capita,0.0
+734,Uzbekistan,Ice_Cream_Volume_per_capita,0.0
+735,Vietnam,Ice_Cream_Volume_per_capita,0.0
+736,Australia,Ice_Cream_Volume_per_capita,0.0
+737,New Zealand,Ice_Cream_Volume_per_capita,0.0
+738,Belarus,Ice_Cream_Volume_per_capita,0.0
+739,Bosnia-Herzegovina,Ice_Cream_Volume_per_capita,0.0
+740,Bulgaria,Ice_Cream_Volume_per_capita,0.0
+741,Croatia,Ice_Cream_Volume_per_capita,0.0
+742,Czech Republic,Ice_Cream_Volume_per_capita,0.0
+743,Estonia,Ice_Cream_Volume_per_capita,0.0
+744,Georgia,Ice_Cream_Volume_per_capita,0.0
+745,Hungary,Ice_Cream_Volume_per_capita,0.0
+746,Latvia,Ice_Cream_Volume_per_capita,0.0
+747,Lithuania,Ice_Cream_Volume_per_capita,0.0
+748,Macedonia,Ice_Cream_Volume_per_capita,0.0
+749,Poland,Ice_Cream_Volume_per_capita,0.0
+750,Romania,Ice_Cream_Volume_per_capita,0.0
+751,Russia,Ice_Cream_Volume_per_capita,0.0
+752,Serbia,Ice_Cream_Volume_per_capita,0.0
+753,Slovakia,Ice_Cream_Volume_per_capita,0.0
+754,Slovenia,Ice_Cream_Volume_per_capita,0.0
+755,Ukraine,Ice_Cream_Volume_per_capita,0.0
+756,Argentina,Ice_Cream_Volume_per_capita,0.0
+757,Bolivia,Ice_Cream_Volume_per_capita,0.0
+758,Brazil,Ice_Cream_Volume_per_capita,0.0
+759,Chile,Ice_Cream_Volume_per_capita,0.0
+760,Colombia,Ice_Cream_Volume_per_capita,0.0
+761,Costa Rica,Ice_Cream_Volume_per_capita,0.0
+762,Dominican Republic,Ice_Cream_Volume_per_capita,0.0
+763,Ecuador,Ice_Cream_Volume_per_capita,0.0
+764,Guatemala,Ice_Cream_Volume_per_capita,0.0
+765,Mexico,Ice_Cream_Volume_per_capita,0.0
+766,Peru,Ice_Cream_Volume_per_capita,0.0
+767,Uruguay,Ice_Cream_Volume_per_capita,0.0
+768,Venezuela,Ice_Cream_Volume_per_capita,0.0
+769,Algeria,Ice_Cream_Volume_per_capita,0.0
+770,Cameroon,Ice_Cream_Volume_per_capita,0.0
+771,Egypt,Ice_Cream_Volume_per_capita,0.0
+772,Iran,Ice_Cream_Volume_per_capita,0.0
+773,Israel,Ice_Cream_Volume_per_capita,0.0
+774,Kenya,Ice_Cream_Volume_per_capita,0.0
+775,Morocco,Ice_Cream_Volume_per_capita,0.0
+776,Nigeria,Ice_Cream_Volume_per_capita,0.0
+777,Saudi Arabia,Ice_Cream_Volume_per_capita,0.0
+778,South Africa,Ice_Cream_Volume_per_capita,0.0
+779,Tunisia,Ice_Cream_Volume_per_capita,0.0
+780,United Arab Emirates,Ice_Cream_Volume_per_capita,0.0
+781,Canada,Ice_Cream_Volume_per_capita,0.0
+782,USA,Ice_Cream_Volume_per_capita,0.0
+783,Austria,Ice_Cream_Volume_per_capita,0.0
+784,Belgium,Ice_Cream_Volume_per_capita,0.0
+785,Denmark,Ice_Cream_Volume_per_capita,0.0
+786,Finland,Ice_Cream_Volume_per_capita,0.0
+787,France,Ice_Cream_Volume_per_capita,0.0
+788,Germany,Ice_Cream_Volume_per_capita,0.0
+789,Greece,Ice_Cream_Volume_per_capita,0.0
+790,Ireland,Ice_Cream_Volume_per_capita,0.0
+791,Italy,Ice_Cream_Volume_per_capita,0.0
+792,Netherlands,Ice_Cream_Volume_per_capita,0.0
+793,Norway,Ice_Cream_Volume_per_capita,0.0
+794,Portugal,Ice_Cream_Volume_per_capita,0.0
+795,Spain,Ice_Cream_Volume_per_capita,0.0
+796,Sweden,Ice_Cream_Volume_per_capita,0.0
+797,Switzerland,Ice_Cream_Volume_per_capita,0.0
+798,Turkey,Ice_Cream_Volume_per_capita,0.0
+799,United Kingdom,Ice_Cream_Volume_per_capita,0.0
+800,Azerbaijan,Ice_Cream_Value_per_capita,55.00000000000001
+801,China,Ice_Cream_Value_per_capita,0.0
+802,"Hong Kong, China",Ice_Cream_Value_per_capita,0.0
+803,India,Ice_Cream_Value_per_capita,0.0
+804,Indonesia,Ice_Cream_Value_per_capita,0.0
+805,Japan,Ice_Cream_Value_per_capita,0.0
+806,Kazakhstan,Ice_Cream_Value_per_capita,20.0
+807,Malaysia,Ice_Cream_Value_per_capita,0.0
+808,Pakistan,Ice_Cream_Value_per_capita,0.0
+809,Philippines,Ice_Cream_Value_per_capita,0.0
+810,Singapore,Ice_Cream_Value_per_capita,0.0
+811,South Korea,Ice_Cream_Value_per_capita,0.0
+812,Taiwan,Ice_Cream_Value_per_capita,0.0
+813,Thailand,Ice_Cream_Value_per_capita,0.0
+814,Uzbekistan,Ice_Cream_Value_per_capita,0.0
+815,Vietnam,Ice_Cream_Value_per_capita,0.0
+816,Australia,Ice_Cream_Value_per_capita,0.0
+817,New Zealand,Ice_Cream_Value_per_capita,0.0
+818,Belarus,Ice_Cream_Value_per_capita,0.0
+819,Bosnia-Herzegovina,Ice_Cream_Value_per_capita,0.0
+820,Bulgaria,Ice_Cream_Value_per_capita,0.0
+821,Croatia,Ice_Cream_Value_per_capita,0.0
+822,Czech Republic,Ice_Cream_Value_per_capita,0.0
+823,Estonia,Ice_Cream_Value_per_capita,0.0
+824,Georgia,Ice_Cream_Value_per_capita,0.0
+825,Hungary,Ice_Cream_Value_per_capita,0.0
+826,Latvia,Ice_Cream_Value_per_capita,0.0
+827,Lithuania,Ice_Cream_Value_per_capita,0.0
+828,Macedonia,Ice_Cream_Value_per_capita,0.0
+829,Poland,Ice_Cream_Value_per_capita,0.0
+830,Romania,Ice_Cream_Value_per_capita,0.0
+831,Russia,Ice_Cream_Value_per_capita,0.0
+832,Serbia,Ice_Cream_Value_per_capita,0.0
+833,Slovakia,Ice_Cream_Value_per_capita,0.0
+834,Slovenia,Ice_Cream_Value_per_capita,0.0
+835,Ukraine,Ice_Cream_Value_per_capita,0.0
+836,Argentina,Ice_Cream_Value_per_capita,0.0
+837,Bolivia,Ice_Cream_Value_per_capita,0.0
+838,Brazil,Ice_Cream_Value_per_capita,0.0
+839,Chile,Ice_Cream_Value_per_capita,0.0
+840,Colombia,Ice_Cream_Value_per_capita,0.0
+841,Costa Rica,Ice_Cream_Value_per_capita,0.0
+842,Dominican Republic,Ice_Cream_Value_per_capita,5.0
+843,Ecuador,Ice_Cream_Value_per_capita,50.0
+844,Guatemala,Ice_Cream_Value_per_capita,55.00000000000001
+845,Mexico,Ice_Cream_Value_per_capita,0.0
+846,Peru,Ice_Cream_Value_per_capita,0.0
+847,Uruguay,Ice_Cream_Value_per_capita,0.0
+848,Venezuela,Ice_Cream_Value_per_capita,0.0
+849,Algeria,Ice_Cream_Value_per_capita,0.0
+850,Cameroon,Ice_Cream_Value_per_capita,40.0
+851,Egypt,Ice_Cream_Value_per_capita,0.0
+852,Iran,Ice_Cream_Value_per_capita,0.0
+853,Israel,Ice_Cream_Value_per_capita,0.0
+854,Kenya,Ice_Cream_Value_per_capita,0.0
+855,Morocco,Ice_Cream_Value_per_capita,0.0
+856,Nigeria,Ice_Cream_Value_per_capita,70.0
+857,Saudi Arabia,Ice_Cream_Value_per_capita,0.0
+858,South Africa,Ice_Cream_Value_per_capita,0.0
+859,Tunisia,Ice_Cream_Value_per_capita,0.0
+860,United Arab Emirates,Ice_Cream_Value_per_capita,0.0
+861,Canada,Ice_Cream_Value_per_capita,0.0
+862,USA,Ice_Cream_Value_per_capita,0.0
+863,Austria,Ice_Cream_Value_per_capita,0.0
+864,Belgium,Ice_Cream_Value_per_capita,0.0
+865,Denmark,Ice_Cream_Value_per_capita,0.0
+866,Finland,Ice_Cream_Value_per_capita,0.0
+867,France,Ice_Cream_Value_per_capita,0.0
+868,Germany,Ice_Cream_Value_per_capita,0.0
+869,Greece,Ice_Cream_Value_per_capita,0.0
+870,Ireland,Ice_Cream_Value_per_capita,0.0
+871,Italy,Ice_Cream_Value_per_capita,0.0
+872,Netherlands,Ice_Cream_Value_per_capita,0.0
+873,Norway,Ice_Cream_Value_per_capita,0.0
+874,Portugal,Ice_Cream_Value_per_capita,0.0
+875,Spain,Ice_Cream_Value_per_capita,0.0
+876,Sweden,Ice_Cream_Value_per_capita,0.0
+877,Switzerland,Ice_Cream_Value_per_capita,0.0
+878,Turkey,Ice_Cream_Value_per_capita,0.0
+879,United Kingdom,Ice_Cream_Value_per_capita,0.0
